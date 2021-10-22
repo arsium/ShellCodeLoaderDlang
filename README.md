@@ -1,5 +1,5 @@
 # ShellCodeLoaderDlang
-A class to load shellcode in memory written in D
+A class to load shellcode in memory written in D.
 
 How does it work ?
 
