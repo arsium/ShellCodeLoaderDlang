@@ -9,12 +9,16 @@ How to use it ?
 
 Just instance a new class like :
 
+```
 Loader l = new Loader(your_shellcode_array);
 l.Load();
+```
 
 and then call your shellcode :
 
+```
 l.CallFromAThread();//or l.Call
+```
 
 Functions Added :
 
