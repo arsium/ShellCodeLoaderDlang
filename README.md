@@ -26,5 +26,5 @@ Sources :
 * https://github.com/3gstudent/Inject-dll-by-Process-Doppelganging/blob/master/inject.c
 * https://github.com/3gstudent/Inject-dll-by-Process-Doppelganging/blob/master/ntos.h
 * https://github.com/arsium/ShellCodeLoader/blob/main/ShellCodeLoader/ShellCodeLoader.cs
-* https://tour.dlang.org/tour/en/basics/basic-types //ubyte
+* https://tour.dlang.org/tour/en/basics/basic-types
 * https://doxygen.reactos.org/
