@@ -14,8 +14,8 @@ Functions Added :
 
 What is the difference between 'Call' and 'CallFromAthread' ?
 
-* 'Call' :
+* 'Call' :<br>
 ![Image description](https://i.postimg.cc/jSFg9Y3n/Capture-d-cran-91.png)
 
-* 'CallFromAthread' :
+* 'CallFromAthread' :<br>
 ![Image description](https://i.postimg.cc/4yfQyWFT/Capture-d-cran-96.png)
