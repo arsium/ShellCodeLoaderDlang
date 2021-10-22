@@ -3,7 +3,7 @@ A class to load shellcode in memory written in D
 
 How does it work ?
 
-It uses NTApi to load and call the shellcode if loaded.
+It uses NTApi to load and call the shellcode if loaded. For demo, I use a simple csharp app displaying a messagebox converted in shellcode with https://github.com/TheWover/donut.
 
 Functions Added :
 
