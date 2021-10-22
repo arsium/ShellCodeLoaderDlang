@@ -2761,7 +2761,7 @@ class Loader
 	private PVOID AllocatedMemory;
 	private NTSTATUS Status;
 
-	this(ubyte[] shellCode, bool useThread)
+	this(ubyte[] shellCode)
 	{
 		this.ShellCode = shellCode;
 		ThreadHandle = NULL;
