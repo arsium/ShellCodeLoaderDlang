@@ -19,3 +19,12 @@ What is the difference between 'Call' and 'CallFromAthread' ?
 
 * 'CallFromAthread' :<br>
 ![Image description](https://i.postimg.cc/4yfQyWFT/Capture-d-cran-96.png)
+
+Sources : 
+* https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createthread
+* https://github.com/secrary/InjectProc/blob/master/InjectProc/injection.cpp
+* https://github.com/3gstudent/Inject-dll-by-Process-Doppelganging/blob/master/inject.c
+* https://github.com/3gstudent/Inject-dll-by-Process-Doppelganging/blob/master/ntos.h
+* https://github.com/arsium/ShellCodeLoader/blob/main/ShellCodeLoader/ShellCodeLoader.cs
+* https://tour.dlang.org/tour/en/basics/basic-types //ubyte
+* https://doxygen.reactos.org/
